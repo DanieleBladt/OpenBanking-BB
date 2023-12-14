@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/10 19:06:44.000.406,=C:\Users\Daniele\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 19:18:21.000.161,C:\Users\Daniele\Documents\Cursos\OpenBanking\uOpenBanking.dfm=C:\Users\Daniele\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/10 19:18:21.000.161,C:\Users\Daniele\Documents\Cursos\OpenBanking\uOpenBanking.pas=C:\Users\Daniele\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 21:36:52.000.689,C:\Users\Daniele\Documents\Cursos\OpenBanking\Project1.dproj=C:\Users\Daniele\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/11/09 08:21:48.000.285,=C:\Users\daniele.souza\Documents\Cursos-Delphi\OpenBanking\uTokenBB.DTO.pas</Transaction>
+  </Transactions>
+</BorlandProject>
